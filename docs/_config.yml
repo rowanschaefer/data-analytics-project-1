@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+repository: datawithdanny/template-project-1
+title: "Data Analytics Project #1"
+description: "Key skills: PostgreSQL, R Tidyverse, Jupyter Notebooks"
+show_downloads: "true"
+plugins:
+    - jekyll-github-metadata
+    - jekyll-mentions
+    - jekyll-redirect-from
+    - jekyll-sitemap
+    - jemoji

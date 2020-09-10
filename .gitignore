@@ -1,0 +1,15 @@
+# ignore every dotfile in R/ and Python/
+R/.*
+Python/.*
+
+# ignore any data folders within R/ and Python/
+R/*data*/*
+Python/*data*/*
+
+# ignore all raw data types
+*.Rd
+*.csv
+*.parquet
+
+# ignore .lock files for Gemfile
+*.lock
